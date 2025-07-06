@@ -28,25 +28,42 @@ COUNTIF function calculated the total count of such discounted products.
 
 Pivot tables and summary statistics were created to explore patterns in rating counts and discount levels.
 
-Analysis
+### Analysis
 The analysis helped answer the following questions.
 
 -What is the average discount percentage by product category?
+
 -How many products are listed under each category?
+
 -What is the total number of reviews per category?
+
 -Which products have the highest average ratings?
+
 -What is the average actual price vs the discounted price by category?
+
 -Which products have the highest number of reviews?
+
 -How many products have a discount of 50% or more?
+
 -What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?
+
 -What is the total potential revenue (actual_price × rating_count) by category?
+
+
 -What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)?
+
+
 -How does the rating relate to the level of discount?
+
+
 -How many products have fewer than 1,000 reviews?
+
 -Which categories have products with the highest discounts?
+
 -Identify the top 5 products in terms of rating and number of reviews combined.
 
 Recommendation
+
 Encourage Detailed Reviews -Prompt buyers to leave comprehensive reviews, especially for discounted items, to balance the perceived value and boost engagement.
 
 Target High-Engagement Users -Identify and engage customers who leave longer or more detailed reviews, as they tend to be more invested in the brand and products.
